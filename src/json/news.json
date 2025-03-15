@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "link": "https://www.faetec.rj.gov.br/index.php/home/rede-faetec/2020-08-18-16-15-27/2536-faetec-da-inicio-ao-projeto-esporte-saude",
+        "title": "Faetec dá início ao projeto + Esporte & Saúde",
+        "desc": "Atividades acontecem de segunda a sábado em Quintino e as inscrições estão abertas...",
+        "img": "./news_covers/1.png"
+    },
+    {
+        "id": 2,
+        "link": "https://www.faetec.rj.gov.br/index.php/home/rede-faetec/2020-08-18-16-15-27/2557-professor-da-faeterj-de-petropolis-vence-premio-ibest-de-educacao",
+        "title": "Professor da Faeterj de Petrópolis vence Prêmio iBest de Educação",
+        "desc": "Thiago Braga, professor da Faculdade de Educação Tecnológica do Estado do Rio de Janeiro (FAETERJ), foi eleito, pelo segundo ano consecutivo, o Melhor Influenciador de Educação do Brasil pelo Prêmio iBest.",
+        "img": "./news_covers/2.jpeg"
+    },
+    {
+        "id": 3,
+        "link": "https://www.faetec.rj.gov.br/index.php/home/rede-faetec/2020-08-18-16-15-27/2528-encontro-de-gestores-movimenta-manha-de-quinta-feira-na-sede-da-faetec",
+        "title": "Encontro de gestores movimenta manhã de quinta-feira na sede da Faetec",
+        "desc": "Profissionais foram recebidos pelo presidente Alexandre Valle e toda a equipe de ensino da Instituição. Encontro abordou necessidades das unidades da capital e região metropolitana para um ano letivo ainda mais eficaz",
+        "img": "./news_covers/3.jpg"
+    }
+]
