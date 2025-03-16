@@ -28,9 +28,13 @@ body {
 }
 
 .portal {
-  @apply w-21 md:w-24 h-21 md:h-24 rounded-xl p-1 text-sm font-bold text-[#FFFFFF] bg-[#0c73aeb6] flex items-center justify-center text-center;
+  @apply w-21 md:w-24 h-21 md:h-24 rounded-xl p-1 text-sm font-bold text-[#FFFFFF] bg-[#0c73aeb6] hover:bg-[#0c4daeb6] flex items-center justify-center text-center transition-all;
 }
 
 .slider {
   @apply h-[90%] top-[50%] -translate-y-[50%] w-screen transition-all duration-300 shadow-2xl;
+}
+
+.link {
+  @apply hover:ml-4 hover:text-blue-400 transition-all;
 }
